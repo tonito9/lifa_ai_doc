@@ -2,7 +2,7 @@
 
 Last updated: July 28, 2023
 
-This privacy policy (“Policy”) describes how www.lifa.ai (“Lifa.ai”, “Lifa AI” “we”, “us”, or “our”) collects, uses, shares and protects information about you when you use our website, products and services (collectively, the “Services”).
+This privacy policy (“Policy”) describes how https://www.lifa.ai (“Lifa.ai”, “Lifa AI” “we”, “us”, or “our”) collects, uses, shares and protects information about you when you use our website, products and services (collectively, the “Services”).
 
 ## Our Services
 
