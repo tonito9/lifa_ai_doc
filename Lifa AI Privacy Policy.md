@@ -8,11 +8,11 @@ This privacy policy (“Policy”) describes how https://www.lifa.ai (“Lifa AI
 
 Lifa AI provides a research-based text generation service. Lifa AI is available via https://www.lifa.ai and associated internet domains.
 
-## Information Lifa.ai Collects
+## Information Lifa AICollects
 
 We only collect the queries made with our service. Collecting this information enables us to better understand how people use our product. We use this information for our internal analytics purposes and to improve the quality and relevance of our service.
 
-## Information Lifa.ai Does Not Collect
+## Information Lifa AI Does Not Collect
 
 We do not collect any personal information.
 
