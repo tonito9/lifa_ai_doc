@@ -1,4 +1,4 @@
-# Lifa AI Privacy Policy
+# Privacy Policy
 
 Last updated: July 28, 2023
 
