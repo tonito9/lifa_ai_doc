@@ -2,7 +2,7 @@
 
 Last updated: July 28, 2023
 
-Please read these Terms of Service (“Terms”, “Terms of Service”) carefully before using the www.lifa.ai website (the “Service”) operated by Lifa AI (“us”, “we”, or “our”).
+Please read these Terms of Service (“Terms”, “Terms of Service”) carefully before using the https://www.lifa.ai website (the “Service”) operated by Lifa AI (“us”, “we”, or “our”).
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
