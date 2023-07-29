@@ -1,4 +1,4 @@
-﻿\# About
+﻿# About
 
 We are a small interdisciplinary team whose mission is to empower humanity’s knowledge access and production.
 
