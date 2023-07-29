@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: July 28, 2023
+Last updated: July 29, 2023
 
 This privacy policy (“Policy”) describes how https://www.lifa.ai (“Lifa AI” “we”, “us”, or “our”) collects, uses, shares and protects information about you when you use our website, products and services (collectively, the “Services”).
 
@@ -26,4 +26,4 @@ We may change this Policy from time to time. If we make changes, we will post th
 
 ## Contact Us
 
-If you have any questions about this Policy, please contact us via Twitter at <https://twitter.com/lifa_ai>.
+If you have any questions about this Policy, please contact us on Twitter at <https://twitter.com/lifa_ai>.
