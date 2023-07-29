@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: July 28, 2023
+Last updated: July 29, 2023
 
 Please read these Terms of Service (“Terms”, “Terms of Service”) carefully before using the https://www.lifa.ai website (the “Service”) operated by Lifa AI (“us”, “we”, or “our”).
 
@@ -36,7 +36,7 @@ You acknowledge and agree that Lifa AI may preserve Content and may also disclos
 
 Lifa AI acknowledges and respects the intellectual property rights of all individuals and entities, and expects all users of the Service to do the same. As a user of the Service, you are granted access for your own personal, non-commercial use only. Any attempts to reverse engineer, copy, reproduce, or otherwise steal intellectual property from the Service will not be tolerated and may result in legal action.
 
-Lifa AI takes all allegations of copyright infringement seriously and will respond promptly to any notices that comply with applicable laws and are properly provided to us. If you believe that your work has been used in a manner that constitutes copyright infringement, please contact us via Twitter at [https://twitter.com/lifa_ai]( ).
+Lifa AI takes all allegations of copyright infringement seriously and will respond promptly to any notices that comply with applicable laws and are properly provided to us. If you believe that your work has been used in a manner that constitutes copyright infringement, please contact us on Twitter at [https://twitter.com/lifa_ai]( ).
 
 ## Limitation of Liability
 
@@ -60,4 +60,4 @@ After modification, we will post the revised Terms and update the “Last update
 
 ## Contact Us
 
-If you have any questions about these Terms, please contact us via Twitter at <https://twitter.com/lifa_ai>.
+If you have any questions about these Terms, please contact us on Twitter at <https://twitter.com/lifa_ai>.
