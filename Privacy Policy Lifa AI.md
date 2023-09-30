@@ -18,7 +18,7 @@ We do not collect any personal information other than your email address.
 
 ## Sharing of Information
 
-No personally identifiable information (PII) is transmitted. We only share requests and answers with OpenAI via their professional API to generate answers. OpenAI automatically deletes the data after 30 days and does not use it to train their models.
+No personally identifiable information (PII) is transmitted. We only share requests with OpenAI via their professional API to generate answers. OpenAI automatically deletes the data after 30 days and does not use it to train their models.
 
 ## Changes to our Privacy Policy
 
