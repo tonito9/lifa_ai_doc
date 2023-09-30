@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: July 29, 2023
+Last updated: September 30, 2023
 
 This privacy policy (“Policy”) describes how https://www.lifa.ai (“Lifa AI” “we”, “us”, or “our”) collects, uses, shares and protects information about you when you use our website, products and services (collectively, the “Services”).
 
@@ -10,15 +10,15 @@ Lifa AI provides a research-based text generation service. Lifa AI is available 
 
 ## Information Lifa AI Collects
 
-We only collect the queries made with our service. Collecting this information enables us to better understand how people use our product. We use this information for our internal analytics purposes and to improve the quality and relevance of our service.
+We only collect and store the email address used to create an account, the queries made with our service and the documents uploaded on the application. Collecting this information enables us to improve the quality and relevance of our service, by providing users a history of their activity and the ability to manage their library. If users delete a chat, a document or their account, it is automatically deleted from our database.
 
 ## Information Lifa AI Does Not Collect
 
-We do not collect any personal information.
+We do not collect any personal information other than your email address.
 
 ## Sharing of Information
 
-No personally identifiable information (PII) is transmitted.
+No personally identifiable information (PII) is transmitted. We only share requests and answers with OpenAI via their professional API to generate answers. OpenAI automatically deletes the data after 30 days and does not use it to train their models.
 
 ## Changes to our Privacy Policy
 
