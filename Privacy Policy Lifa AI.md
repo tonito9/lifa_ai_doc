@@ -10,7 +10,7 @@ Lifa AI provides a research-based text generation service. Lifa AI is available 
 
 ## Information Lifa AI Collects
 
-We only collect and store the email address used to create an account, the queries made with our service and the documents uploaded on the application. Collecting this information enables us to improve the quality and relevance of our service, by providing users a history of their activity and the ability to manage their library. If users delete a chat, a document or their account, it is automatically deleted from our database.
+We collect and store the email address used to create an account, the queries made with our service and the documents uploaded on the application. Collecting this information enables us to improve the quality and relevance of our service, by providing users a history of their activity and the ability to manage their library. If a user deletes a chat, a document or their account, it is automatically deleted from our database.
 
 ## Information Lifa AI Does Not Collect
 
