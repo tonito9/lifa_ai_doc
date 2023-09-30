@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: September 30, 2023
+Last updated: October 1, 2023
 
 This privacy policy (“Policy”) describes how https://www.lifa.ai (“Lifa AI” “we”, “us”, or “our”) collects, uses, shares and protects information about you when you use our website, products and services (collectively, the “Services”).
 
